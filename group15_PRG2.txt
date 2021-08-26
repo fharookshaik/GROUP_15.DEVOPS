@@ -6,3 +6,7 @@ second line addded by harsha(prgmr 2) from branch2
 
 This fisrt line is added from branch1 (fharookshaik)
 This second line is added from branch2 (fharookshaik)
+
+added this line for task4(before bug fix)
+this line added after bugfix
+
